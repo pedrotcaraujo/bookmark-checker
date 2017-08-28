@@ -1,1 +1,1 @@
-# check-favourites
+# bookmark-checker
